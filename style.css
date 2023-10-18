@@ -1,0 +1,19 @@
+body{
+    font-family: 'DM Serif Display', serif;
+    background: rgb(0,0,0);
+background: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(165,222,224,0.977109593837535) 100%);
+text-align: center;
+color: white;
+}
+h1 {
+margin: 20px;
+}
+.glyphicon {
+    color:yellow;
+}
+.racasHead {
+    margin: 10px;
+    padding: 10px;
+    font-size: 18px;
+    border-radius: 15px;
+}
